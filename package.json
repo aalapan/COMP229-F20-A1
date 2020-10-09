@@ -1,0 +1,9 @@
+{
+  "name": "COMP229-F20-A1",
+  "version": "1.0.0",
+  "description": "COMP 229 - Fall 2020 - Assignment 1 - Aileen Nicole Alapan",
+  "main": "index.js",
+  "repository": "https://github.com/aalapan/COMP229-F20-A1.git",
+  "author": "Aileen Nicole Alapan",
+  "license": "MIT"
+}
